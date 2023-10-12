@@ -5,7 +5,7 @@ It's a Uber dataset. I download the data and stored it in the GCP bucket. The pu
 https://storage.googleapis.com/uber-data-engineering-project-lyj/uber_data.csv
 
 The picture of data pipeline tree as follows.
-![avatar](EndtoEnd Data Engineering Project/DataPipeline Tree.png)
+![image](https://github.com/jarynliu/DataDate/blob/main/EndtoEnd%20Data%20Engineering%20Project/DataPipeline%20Tree.png)
 
 After load the data to bigquery. Do some data analysis. 
 Tables have been manipulated using SQL languge. As follow.
