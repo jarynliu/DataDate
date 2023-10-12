@@ -8,7 +8,7 @@ https://storage.googleapis.com/uber-data-engineering-project-lyj/uber_data.csv
 The picture of data pipeline tree as follows.  
 ![image](https://github.com/jarynliu/DataDate/blob/main/EndtoEnd%20Data%20Engineering%20Project/DataPipeline%20Tree.png)  
 
-After load the data to bigquery. Do some data analysis. 
+After load the data to bigquery.  
 Tables have been manipulated using SQL languge. As follow.
 https://console.cloud.google.com/bigquery?sq=949636664416:6e74c2ed85414168af37cce403ca6c8b  
 
